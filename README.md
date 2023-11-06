@@ -1,5 +1,5 @@
 # lottery.aleo
-
+DISCORD: ollstar41
 ## Run Guide
 
 To run this program, run:
